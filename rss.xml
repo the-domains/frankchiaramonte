@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[FrankChiaramonte]]></title>
+        <description><![CDATA[FrankChiaramonte]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 04 Feb 2016 02:38:48 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>I think, I think a lot sometimes. Sometimes I create, sometimes beautiful things,  I am good at solving things, sometimes its appreciated, sometimes its not. Whatever it is I do for my clients, whether its installing draperies or creating a new interior design projects, or just handy work and organizing your space. I always try my best. I hope you enjoy what I have to show you and always realize that I will be professional towards you.</p>]]></description>
+            <link>undefineda94be911-33de-4aaa-ac55-b8f2258e15e6/index.html</link>
+            <guid isPermaLink="false">a94be911-33de-4aaa-ac55-b8f2258e15e6</guid>
+            <pubDate>Thu, 04 Feb 2016 02:38:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
