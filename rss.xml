@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[FrankChiaramonte]]></title>
         <description><![CDATA[FrankChiaramonte]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/frankchiaramonte/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Feb 2016 02:38:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 04 Feb 2016 02:56:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/frankchiaramonte/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Me, as Coach Frank, Handing a well deserved to a child for their efforts and leadership shown on and off the ice. Fun is what children remember the most about Hockey. At least this is what I believe. </p>]]></description>
+            <link>https://thegrid.ai/frankchiaramonte/9e246549-80af-4956-a70c-e55566709ed8/index.html</link>
+            <guid isPermaLink="false">9e246549-80af-4956-a70c-e55566709ed8</guid>
+            <pubDate>Thu, 04 Feb 2016 02:56:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>I think, I think a lot sometimes. Sometimes I create, sometimes beautiful things,  I am good at solving things, sometimes its appreciated, sometimes its not. Whatever it is I do for my clients, whether its installing draperies or creating a new interior design projects, or just handy work and organizing your space. I always try my best. I hope you enjoy what I have to show you and always realize that I will be professional towards you.</p>]]></description>
-            <link>undefineda94be911-33de-4aaa-ac55-b8f2258e15e6/index.html</link>
+            <link>https://thegrid.ai/frankchiaramonte/a94be911-33de-4aaa-ac55-b8f2258e15e6/index.html</link>
             <guid isPermaLink="false">a94be911-33de-4aaa-ac55-b8f2258e15e6</guid>
             <pubDate>Thu, 04 Feb 2016 02:38:21 GMT</pubDate>
         </item>
