@@ -3,9 +3,9 @@ favicon: null
 name: FrankChiaramonte
 purpose: []
 analytics:
-  twitter: null
-  google: null
   facebook: null
+  google: null
+  twitter: null
 opengraph:
   image: null
   type: null
@@ -23,18 +23,18 @@ collections:
     permalink:
       path: '/:title/'
 cta:
+  domain: null
   version: null
   bucket: null
-  domain: null
 color:
   brandStrength: 0.5618915271479636
-  saturation: 0.3283193681854755
+  lightness: 0.5952783
+  saturation: 0.3283194
+  rhythmicContrast: 0.2613828
   brandColors:
-    - '#f7fffd'
-    - '#0b0c07'
-    - '#423f38'
-    - '#847f59'
-    - '#b4cef1'
-  lightness: 0.4944140906445682
-  rhythmicContrast: 0.3118718629702926
-typography_spectrum: 0.3043567137792706
+    - '#432E19'
+    - '#FDFFFF'
+    - '#B3815B'
+    - '#FFD79B'
+    - '#92B5F1'
+typography_spectrum: 0.1408094
