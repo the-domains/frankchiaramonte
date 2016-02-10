@@ -1,11 +1,11 @@
-layout_spectrum: 0.9350759
+layout_spectrum: 0.9072512
 favicon: null
 name: FrankChiaramonte
 purpose: []
 analytics:
-  facebook: null
-  google: null
   twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -23,18 +23,18 @@ collections:
     permalink:
       path: '/:title/'
 cta:
-  domain: null
-  version: null
   bucket: null
+  version: null
+  domain: null
 color:
   brandStrength: 0.5618915271479636
-  lightness: 0.5952783
   saturation: 0.3283194
-  rhythmicContrast: 0.2613828
   brandColors:
     - '#432E19'
     - '#FDFFFF'
     - '#B3815B'
     - '#FFD79B'
     - '#92B5F1'
+  lightness: 0.5952783
+  rhythmicContrast: 0.2613828
 typography_spectrum: 0.1408094
