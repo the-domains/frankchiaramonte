@@ -1,15 +1,18 @@
-layout_spectrum: 0.9072512
-favicon: null
-name: FrankChiaramonte
-purpose: []
+color:
+  brandStrength: 0.2023609
+  saturation: 0.5168634
+  brandColors:
+    - '#432E19'
+    - '#FDFFFF'
+    - '#B3815B'
+    - '#FFD79B'
+    - '#92B5F1'
+  lightness: 0.5042158
+  rhythmicContrast: 0.4915683
 analytics:
-  twitter: null
-  google: null
   facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+  google: null
+  twitter: null
 collections:
   - index:
       navigable: true
@@ -23,18 +26,15 @@ collections:
     permalink:
       path: '/:title/'
 cta:
+  domain: null
   version: null
   bucket: null
-  domain: null
-color:
-  brandStrength: 0.2023609
-  lightness: 0.5042158
-  saturation: 0.5168634
-  rhythmicContrast: 0.4915683
-  brandColors:
-    - '#432E19'
-    - '#FDFFFF'
-    - '#B3815B'
-    - '#FFD79B'
-    - '#92B5F1'
+favicon: null
+layout_spectrum: 0.9072512
+purpose: []
+name: FrankChiaramonte
+opengraph:
+  image: null
+  type: null
+  appId: null
 typography_spectrum: 0.1408094
