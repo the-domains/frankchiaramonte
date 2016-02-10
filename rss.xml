@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[FrankChiaramonte]]></title>
         <description><![CDATA[FrankChiaramonte]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/frankchiaramonte/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 02:31:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 10 Feb 2016 05:02:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/frankchiaramonte/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/89f7f52c-3d98-4788-aa96-cd0f72920e9a.jpg">]]></description>
+            <link>https://thegrid.ai/frankchiaramonte/073a009d-c9b6-4e00-8021-7a0b5e171ff8/index.html</link>
+            <guid isPermaLink="false">073a009d-c9b6-4e00-8021-7a0b5e171ff8</guid>
+            <pubDate>Wed, 10 Feb 2016 05:02:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a00ff6ae-91ab-4d61-b890-e9675784f5f9.jpg">]]></description>
-            <link>undefined0cfb71b5-27ff-4bb8-b7bb-299c94eb008a/index.html</link>
+            <link>https://thegrid.ai/frankchiaramonte/0cfb71b5-27ff-4bb8-b7bb-299c94eb008a/index.html</link>
             <guid isPermaLink="false">0cfb71b5-27ff-4bb8-b7bb-299c94eb008a</guid>
             <pubDate>Wed, 10 Feb 2016 02:30:48 GMT</pubDate>
         </item>
